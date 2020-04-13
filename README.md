@@ -6,7 +6,6 @@
   2.把face-recognization里的data，Detection,logs,prepare_data,result解压到detect-recognization/mtcnn-facenet-face_recognization/
 把face_database,face_models解压到detect-recognization/mtcnn-facenet-face_recognization/test/
 
-
   3.把mtcnn里的caffe_models解压到detect-recognization/mtcnn-pytorch-master/,
   weights 解压到detect-recognization/mtcnn-pytorch-master/src/
 
